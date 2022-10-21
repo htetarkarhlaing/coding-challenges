@@ -1,0 +1,29 @@
+{
+  "name": "js-ts-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "format.js",
+  "scripts": {
+    "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'src/**/*.ts'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htetarkarhlaing/js-array-format-sample.git"
+  },
+  "author": "Htet Arkar Hlaing <htet.arkar.hlaing.official.mm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htetarkarhlaing/js-array-format-sample/issues"
+  },
+  "homepage": "https://github.com/htetarkarhlaing/js-array-format-sample#readme",
+  "dependencies": {
+    "chai": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^10.0.0",
+    "mocha": "^10.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
