@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/htetarkarhlaing/js-array-format-sample.git"
+    "url": "git+https://github.com/htetarkarhlaing/coding-challenges.git"
   },
   "author": "Htet Arkar Hlaing <htet.arkar.hlaing.official.mm@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/htetarkarhlaing/js-array-format-sample/issues"
+    "url": "https://github.com/htetarkarhlaing/coding-challenges/issues"
   },
-  "homepage": "https://github.com/htetarkarhlaing/js-array-format-sample#readme",
+  "homepage": "https://github.com/htetarkarhlaing/coding-challenges#readme",
   "dependencies": {
     "chai": "^4.3.6"
   },
